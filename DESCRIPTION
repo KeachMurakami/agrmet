@@ -20,3 +20,5 @@ Suggests:
     knitr,
     rmarkdown
 VignetteBuilder: knitr
+URL: https://github.com/KeachMurakami/agrmet
+BugReports: https://github.com/KeachMurakami/agrmet/issues
